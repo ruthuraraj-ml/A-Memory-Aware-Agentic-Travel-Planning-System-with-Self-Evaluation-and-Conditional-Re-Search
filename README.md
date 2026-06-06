@@ -1,0 +1,2 @@
+# A-Memory-Aware-Agentic-Travel-Planning-System-with-Self-Evaluation-and-Conditional-Re-Search
+A cognitive agent architecture using LangGraph and Python custom orchestration for adaptive travel planning. Employs a non-destructive state machine with dynamic self-evaluation, conditional re-search loops to fix data gaps, and robust Streamlit UI persistence guards alongside token-optimized data serialization.
